@@ -1,0 +1,1 @@
+g++ trigger.cpp -fPIC -shared -o trigger.dll -lProcMonDebugOutputx64 -L ./
